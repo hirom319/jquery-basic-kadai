@@ -10,3 +10,6 @@ $('#fade-out').on('click', function() {
     $('#target').fadeOut();
 });
 
+$('#fade-in').on('click', function() {
+    $('#target').fadeIn();
+});
